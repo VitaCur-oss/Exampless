@@ -22,3 +22,4 @@ while (Distance_to_meet < Distance)
 }
 WriteLine($"Собака пробежала: {count} раз между друзьями!");
 WriteLine("В общем неплохо бегает пес!")
+WriteLine("В общем неплохо бегает пес!")
