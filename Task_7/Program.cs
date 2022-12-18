@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 Clear();
 
-int a1 = 15;
+int a1 = 155;
 int b1 = 45;
 int c1 = 12;
 
