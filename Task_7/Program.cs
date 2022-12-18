@@ -23,7 +23,7 @@ int Max (int ard1, int ard2, int ard3)
 // int max1 = Max(a1, b1, c1); 
 // int max2 = Max(a2, b2, c2); 
 // int max3 = Max(a3, b3, c3); 
-
+WriteLine("Максимальное число: ");
 WriteLine(Max(Max(a1, b1, c1),
             Max(a2, b2, c2),
             Max(a3, b3, c3)
