@@ -10,7 +10,7 @@ int b2 = 455;
 int c2 = 127;
 
 int a3 = 1572;
-int b3 = 452;
+int b3 = 45;
 int c3 = 120;
 
 int Max (int ard1, int ard2, int ard3)
