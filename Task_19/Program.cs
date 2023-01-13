@@ -13,12 +13,21 @@ WriteLine(multi);
 
 int GetMulti(int A)
 {
-    int result = 1;
-    while (A > 0)
+    if (A > 0)
     {
-        result *= A;
-        A--;
-    }
+        int result = 1;
+        while (A > 0)
+        {
+            result *= A;
+            A--;
 
-    return result;
+        }
+        return result;
+    }
+    else
+    {
+        int result = 0;
+        return result;
+    }
+    
 }
