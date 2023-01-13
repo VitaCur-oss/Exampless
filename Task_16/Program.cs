@@ -84,7 +84,7 @@ void SelectionArr(int[] array)
 
     }
 }
-PrintArr(array);
-WriteLine();
-SelectionArr(array);
-PrintArr(array);
+// PrintArr(array);
+// WriteLine();
+// SelectionArr(array);
+// PrintArr(array);
