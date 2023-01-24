@@ -24,3 +24,5 @@ string DecInBin(int number)
     }
     return result;
 }
+int a = 10;
+WriteLine(Convert.ToString(a, 2));
